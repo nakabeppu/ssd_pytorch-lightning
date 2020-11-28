@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DJI_0305_JPG.rf.676694ff94f0aab2da43b5294c017f2c.jpg</filename>
+	<path>DJI_0305_JPG.rf.676694ff94f0aab2da43b5294c017f2c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>672</xmin>
+			<xmax>772</xmax>
+			<ymin>477</ymin>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

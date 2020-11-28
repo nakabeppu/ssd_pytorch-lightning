@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DJI_0331_JPG.rf.67bec0e69c6bc6cfbb31b1fd35209db9.jpg</filename>
+	<path>DJI_0331_JPG.rf.67bec0e69c6bc6cfbb31b1fd35209db9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>290</xmin>
+			<xmax>480</xmax>
+			<ymin>1</ymin>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

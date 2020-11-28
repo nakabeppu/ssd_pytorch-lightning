@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DJI_0327_JPG.rf.7a29331554b82e6409fae64ca2f55a70.jpg</filename>
+	<path>DJI_0327_JPG.rf.7a29331554b82e6409fae64ca2f55a70.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>341</xmin>
+			<xmax>414</xmax>
+			<ymin>544</ymin>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
