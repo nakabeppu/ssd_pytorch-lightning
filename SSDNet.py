@@ -355,7 +355,19 @@ class Net(pl.LightningModule):
         criterion = MultiBoxLoss(num_classes=self.num_classes, overlap_thresh=0.5, neg_pos=3)
         loss_l, loss_c = criterion(outputs, targets)
         loss = loss_l + loss_c
-        self.log('val_loss', loss, on_step=True, on_epoch=True, prog_bar=True)
+        self.log('val_loss', loss, on_step=False, on_epoch=True)
+        return loss
+    
+    def test_step(self, batch, batch_idx):
+        xs, ys = batch
+        xs  = [ torch.cuda.FloatTensor(x) for x in xs ]
+        images = torch.stack(xs, dim=0)
+        targets  = [ torch.cuda.FloatTensor(y) for y in ys ]
+        outputs = self(images)
+        criterion = MultiBoxLoss(num_classes=self.num_classes, overlap_thresh=0.5, neg_pos=3)
+        loss_l, loss_c = criterion(outputs, targets)
+        loss = loss_l + loss_c
+        self.log('test_loss', loss, on_step=False, on_epoch=True)
         return loss
 
     def configure_optimizers(self):
