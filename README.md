@@ -11,6 +11,9 @@
 
 [Aerial Maritime Drone Dataset](https://public.roboflow.com/object-detection/aerial-maritime)
 
+This dataset contains 74 images of aerial maritime photographs taken with via a Mavic Air 2 drone and 1,151 bounding boxes, consisting of docks, boats, lifts, jetskis, and cars. This is a multi class problem. This is an aerial object detection dataset. This is a maritime object detection dataset.
+
+---
 MIT License
 
 Copyright (c) [year] [fullname]
@@ -32,3 +35,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
+
+## How To Use
+
+
+
+```
+!git clone https://github.com/nakabeppu/ssd_pytorch-lightning
+```
+
+```
+%cd ssd_pytorch-lightning/
+```
+
