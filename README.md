@@ -1,11 +1,11 @@
 # SSD, in PyTorch Lightning
 
 
-## SSD: Single Shot MultiBox Object Detector
+## References
 
-[SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch)
-
-[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+- [SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch)
+- [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+- [mAP (mean Average Precision)](https://github.com/Cartucho/mAP)
 
 ## Datasets
 
@@ -40,3 +40,5 @@ SOFTWARE.
 
 ## How To Use
 [tutorial](https://github.com/nakabeppu/ssd_pytorch-lightning/blob/master/tutorial.ipynb)
+
+### Google Colaboratory (2020/12)
