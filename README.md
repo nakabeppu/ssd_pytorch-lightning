@@ -1,4 +1,4 @@
-# SSD, in PyTorch Lightning
+# SSD in PyTorch Lightning
 
 
 ## References
