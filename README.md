@@ -39,11 +39,4 @@ SOFTWARE.
 ---
 
 ## How To Use
-
-```
-!git clone https://github.com/nakabeppu/ssd_pytorch-lightning
-```
-
-```
-%cd ssd_pytorch-lightning/
-```
+[tutorial](https://github.com/nakabeppu/ssd_pytorch-lightning/blob/master/tutorial.ipynb)
