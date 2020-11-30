@@ -40,8 +40,6 @@ SOFTWARE.
 
 ## How To Use
 
-
-
 ```
 !git clone https://github.com/nakabeppu/ssd_pytorch-lightning
 ```
@@ -49,4 +47,3 @@ SOFTWARE.
 ```
 %cd ssd_pytorch-lightning/
 ```
-
