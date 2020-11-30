@@ -3,9 +3,9 @@
 
 ## SSD: Single Shot MultiBox Object Detector
 
-[SSD: Single Shot MultiBox Object Detector, in PyTorch]https://github.com/amdegroot/ssd.pytorch
+[SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch)
 
-[PyTorch Lightning]https://github.com/PyTorchLightning/pytorch-lightning
+[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
 
 ## Datasets
 
