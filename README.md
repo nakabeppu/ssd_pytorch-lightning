@@ -1,4 +1,4 @@
-# SSD in PyTorch Lightning
+# SSD with PyTorch Lightning
 
 
 ## References
@@ -8,7 +8,7 @@
 - [mAP (mean Average Precision)](https://github.com/Cartucho/mAP)
 
 ## Datasets
-This dataset is released under the MIT License, see LICENSE.txt.
+This dataset is released under the MIT License.
 
 [Aerial Maritime Drone Dataset](https://public.roboflow.com/object-detection/aerial-maritime)
 
