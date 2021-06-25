@@ -16,7 +16,7 @@ This dataset contains 74 images of aerial maritime photographs taken with via a 
 
 
 ## How To Use
-[tutorial](tutorial_ssd.ipynb)
+[tutorial](tutorial_ssd.ipynb)  
 [albumentations_tutorial](tutorial_albumentations.ipynb)
 
 ### Google Colaboratory (2020/12)
