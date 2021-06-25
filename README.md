@@ -16,6 +16,7 @@ This dataset contains 74 images of aerial maritime photographs taken with via a 
 
 
 ## How To Use
-[tutorial](https://github.com/nakabeppu/ssd_pytorch-lightning/blob/master/tutorial.ipynb)
+[tutorial](tutorial_ssd.ipynb)
+[albumentations_tutorial](tutorial_albumentations.ipynb)
 
 ### Google Colaboratory (2020/12)
